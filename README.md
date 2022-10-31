@@ -10,4 +10,4 @@ password
 
 confirm password
 
-it is made using html
+it is made using html and css
