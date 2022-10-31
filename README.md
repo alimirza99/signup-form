@@ -12,4 +12,6 @@ confirm password
 
 password and confirm password should be same
 
+you can also login using facebook
+
 it is made using html and css
