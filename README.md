@@ -12,6 +12,6 @@ confirm password
 
 password and confirm password should be same
 
-you can also login using facebook,twitter
+you can also login using facebook,twitter and geogle
 
 it is made using html and css
