@@ -1,19 +1,19 @@
-# signup-form
+# SIGNUP-FORM
 
-it is simple signup form
+This is a *Simple* **Signup Form**.
 
-username
+> Step-by-step Instructions to register yourself:
 
-email
+1. Enter a **username** of your choice.
+2. Enter your **email address**.
+3. Create a **Password**.
+4. Just *confirm* your password by **re-entering it**.
 
-password
+> Ways to login:
 
-confirm password
-
-password and confirm password should be same
-
-background image
-
-you can also login using facebook,twitter and geogle
-
-it is made using html and css
+1. Using username and password.
+2. Using Social Media Handles like:
+    - Facebook
+    - Twitter
+    - Google+
+This Webpage is created using simple HTML & CSS ✨
